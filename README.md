@@ -43,7 +43,7 @@ Creative portfolios, fashion editorials, photography collections, design studios
 5. Replace reference images with your own licensed images.
 6. Tune the image grid, fisheye distortion, RGB split, drift, zoom and interaction settings in the property panel.
 
-> **Source status:** The complete TSX implementation has not yet been committed to this repository. The latest code is available in the accompanying project conversation; this README documents its intended setup and controls. The demo above showcases the published Framer experience.
+**Source:** [KarimSaifEdgeDistortionGallery.tsx](./KarimSaifEdgeDistortionGallery.tsx) — complete Framer React + TypeScript component with shader and property controls. The live demo showcases the published Framer experience.
 
 ## Customize
 
